@@ -6,6 +6,7 @@ public class Main {
 		System.out.println("hej bby");
 		System.out.println("hej bby");
 
+		System.out.println("wow");
 	}
 
 }
